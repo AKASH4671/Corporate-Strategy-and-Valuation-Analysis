@@ -50,14 +50,23 @@ Key areas covered:
 
 ## Repository Structure
 
-Finance-Case-Studies
+```
+Finance-Case-Studies/
 │
-├── Microsoft-Spotify-Acquisition-Analysis
-│   └── Microsoft-Spotify-Acquisition-Valuation.pdf
+├── Microsoft-Spotify-Acquisition-Case-Study/
+│   ├── data/
+│   ├── model/
+│   └── CaseStudy_MSFT_Spotify.pdf
+│
+├── Nvidia-Arm-Acquisition-Strategic-Analysis/
+│   ├── data/
+│   ├── model/
+│   └── NVIDIA_ARM_Acquisition_Case_Study_2026.pdf
+│
+└── README.md
+```
 
-├── Nvidia-Arm-Acquisition-Strategic-Analysis
-│   └── Nvidia-Arm-Acquisition-Strategic-Analysis.pdf
-
+  
 ---
 
 ## Disclaimer
