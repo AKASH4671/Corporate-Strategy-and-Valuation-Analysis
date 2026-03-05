@@ -1,3 +1,8 @@
+![Corporate Finance](https://img.shields.io/badge/Corporate%20Finance-Analysis-blue)
+![Valuation](https://img.shields.io/badge/Valuation-DCF%20%7C%20Multiples-green)
+![M&A](https://img.shields.io/badge/M&A-Strategic%20Transactions-orange)
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-Scenario%20Analysis-purple)
+![Technology Sector](https://img.shields.io/badge/Industry-Tech%20Analysis-red)
 # Corporate Strategy & Valuation Analysis
 
 This repository contains independent finance case studies analyzing strategic corporate transactions across technology and digital industries. The studies combine financial analysis, valuation methodologies, and industry research to evaluate the strategic and economic implications of major acquisitions.
