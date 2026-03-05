@@ -53,6 +53,26 @@ Key areas covered:
 
 ---
 
+## Analytical Techniques Used
+
+- Enterprise Value / Revenue Valuation
+- Discounted Cash Flow (DCF) Modeling
+- Scenario Analysis
+- Sensitivity Analysis
+- Strategic M&A Evaluation
+- Industry Competitive Analysis
+
+- ---
+
+## Tools
+
+- Excel Financial Models
+- Industry Financial Data
+- Public Company Filings
+- Strategic Framework Analysis
+
+- ---
+
 ## Repository Structure
 
 ```
